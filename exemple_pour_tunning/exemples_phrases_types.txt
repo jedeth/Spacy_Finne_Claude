@@ -1,0 +1,10 @@
+{NOM} travaille chez {ORG}.
+Le rapport de {NOM} a été envoyé à {ORG}.
+{NOM} et {NOM} se sont rencontrés à {LIEU}.
+La conférence de {ORG} aura lieu à {LIEU}.
+{NOM} est le directeur de {ORG} basé à {LIEU}.
+J'ai rendez-vous avec {NOM} au bureau de {ORG}.
+{ORG} a ouvert une nouvelle filiale à {LIEU}.
+Le docteur {NOM} exerce à l'{ORG} de {LIEU}.
+{NOM} a quitté {ORG} pour rejoindre {ORG}.
+La réunion entre {NOM} et {NOM} est prévue à {LIEU}.

@@ -1,0 +1,24 @@
+# Phrases avec entités standards
+{NOM} travaille chez {ORG}.
+Le rapport de {NOM} a été envoyé à {ORG}.
+{NOM} et {NOM} se sont rencontrés à {LIEU}.
+La conférence de {ORG} aura lieu à {LIEU}.
+{NOM} est le directeur de {ORG} basé à {LIEU}.
+
+# Phrases avec entités personnalisées (RNE)
+L'établissement {RNE} accueille {NOM} comme nouveau directeur.
+Le code RNE {RNE} correspond à {ORG} situé à {LIEU}.
+{NOM} enseigne dans l'établissement {RNE}.
+La réunion pour l'établissement {RNE} est organisée par {NOM}.
+Les résultats de l'établissement {RNE} ont été publiés par {ORG}.
+
+# Phrases avec entités personnalisées (INE)
+L'étudiant avec l'INE {INE} est inscrit à {ORG}.
+{NOM} a pour identifiant national étudiant {INE}.
+Le dossier de l'étudiant {INE} a été transféré à {LIEU}.
+L'INE {INE} correspond à {NOM} inscrit en {ORG}.
+
+# Phrases mixtes avec plusieurs entités personnalisées
+L'étudiant {INE} est affecté à l'établissement {RNE}.
+{NOM} (INE: {INE}) étudie dans l'établissement {RNE} à {LIEU}.
+Le transfert de l'étudiant {INE} vers l'établissement {RNE} a été validé par {ORG}.

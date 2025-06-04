@@ -1,3 +1,4 @@
+from numpy import var
 import spacy
 from spacy.training import Example
 from spacy.util import minibatch, compounding
